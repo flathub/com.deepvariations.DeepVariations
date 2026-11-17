@@ -38,6 +38,6 @@ modules:
     sources:
       - type: file
         dest-filename: deepvariations.deb
-        url: https://deepvariations.com/updates/flathub/1.1.4/DeepVariations_1.1.4_amd64.deb
-        sha256: c1a97bd7da67a88feca5aaa9ea9b21e3e458bc3dce058516053bce796d42fa31
+        url: https://deepvariations.com/updates/flathub/1.1.5/DeepVariations_1.1.5_amd64.deb
+        sha256: 29a87b2e3e34cc015ec30cfaeb552d07c9506a0ef444b0c52be7bbfdaf3ac2b2
         only-arches: [x86_64]
